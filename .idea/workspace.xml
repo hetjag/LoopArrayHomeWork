@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="390e5071-5a1a-48bb-8115-1d5450fd5bac" name="Default Changelist" comment="">
+    <list default="true" id="390e5071-5a1a-48bb-8115-1d5450fd5bac" name="Default Changelist" comment="commit in all files">
       <change beforePath="$PROJECT_DIR$/../BDDTestcase" beforeDir="false" afterPath="$PROJECT_DIR$/../BDDTestcase" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/ArmstrongNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/ArmstrongNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/ArrayContainsOfValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/ArrayContainsOfValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/FibonacciNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/FibonacciNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/MultiplicationTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/MultiplicationTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/SumValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/SumValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/TotalNumberOfSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/TotalNumberOfSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/TotalOfOddEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/TotalOfOddEven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayContainsOfValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayContainsOfValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FibonacciNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FibonacciNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TotalNumberOfSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TotalNumberOfSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TotalOfOddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TotalOfOddEven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practice" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../calculater3" beforeDir="false" afterPath="$PROJECT_DIR$/../calculater3" afterDir="false" />
     </list>
@@ -11,6 +26,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="178" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -21,6 +39,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -40,9 +59,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.ReverseNumber">
+  <component name="RunManager" selected="Application.SumValue">
     <configuration name="ArrayContainsOfValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayContainsOfValue" />
+      <module name="LoopArrayHomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciNumber" />
       <module name="LoopArrayHomeWork" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,15 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TotalNumberOfSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TotalNumberOfSpace" />
-      <module name="LoopArrayHomeWork" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TotalOfOddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TotalOfOddEven" />
+    <configuration name="SumValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumValue" />
       <module name="LoopArrayHomeWork" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseNumber" />
-        <item itemvalue="Application.TotalNumberOfSpace" />
-        <item itemvalue="Application.TotalOfOddEven" />
-        <item itemvalue="Application.ArrayContainsOfValue" />
+        <item itemvalue="Application.SumValue" />
         <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.FibonacciNumber" />
+        <item itemvalue="Application.ArrayContainsOfValue" />
+        <item itemvalue="Application.ReverseNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -109,22 +128,39 @@
       <option name="presentableId" value="Default" />
       <updated>1580154132270</updated>
     </task>
+    <task id="LOCAL-00001" summary="coomet on armstong">
+      <created>1580332093581</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580332093581</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit in all files">
+      <created>1580335541738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580335541738</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit to project" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit to project" />
+    <MESSAGE value="coomet on armstong" />
+    <MESSAGE value="commit in all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit in all files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1580320629218">
+    <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1580333932280">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580320629218" />
+    <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580333932280" />
     <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1366.728@0.0.1366.728" timestamp="1580163612999" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1580331867165">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1580335581277">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580331867165" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580335581277" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1580331434817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -137,50 +173,61 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="411" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580331490997" />
-    <state width="1323" height="311" key="GridCell.Tab.0.bottom" timestamp="1580331820790">
+    <state width="1323" height="311" key="GridCell.Tab.0.bottom" timestamp="1580335632134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="311" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580331820790" />
+    <state width="1323" height="311" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580335632134" />
     <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580223539418" />
-    <state width="1323" height="311" key="GridCell.Tab.0.center" timestamp="1580331820790">
+    <state width="1323" height="311" key="GridCell.Tab.0.center" timestamp="1580335632134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="311" key="GridCell.Tab.0.center/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580331820790" />
+    <state width="1323" height="311" key="GridCell.Tab.0.center/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580335632134" />
     <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580223539418" />
-    <state width="1323" height="311" key="GridCell.Tab.0.left" timestamp="1580331820790">
+    <state width="1323" height="311" key="GridCell.Tab.0.left" timestamp="1580335632134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="311" key="GridCell.Tab.0.left/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580331820790" />
+    <state width="1323" height="311" key="GridCell.Tab.0.left/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580335632134" />
     <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580223539418" />
-    <state width="1323" height="311" key="GridCell.Tab.0.right" timestamp="1580331820790">
+    <state width="1323" height="311" key="GridCell.Tab.0.right" timestamp="1580335632134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="311" key="GridCell.Tab.0.right/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580331820790" />
+    <state width="1323" height="311" key="GridCell.Tab.0.right/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580335632134" />
     <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580223539418" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1580323867818">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1580334137721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580323867818" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580334137721" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580161441325" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1580323867818">
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1580334137721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580323867818" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580334137721" />
     <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580161441325" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1580323867818">
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1580334137721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580323867818" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580334137721" />
     <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580161441325" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1580323867818">
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1580334137721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580323867818" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580334137721" />
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580161441325" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1580335661293">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580335661293" />
     <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1580331843795">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580331843795" />
     <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580221660507" />
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580335561218">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580335561218" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LoopArrayHomeWork$SumValue.ic" NAME="SumValue Coverage Results" MODIFIED="1580335618271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

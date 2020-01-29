@@ -17,22 +17,25 @@ public class TotalOfOddEven
 
       while (fiveDigit>0)
       {
+          // Finding even number
           int tem = fiveDigit%10;
           if(tem % 2==0)
           {
+           // Even total
               even_count++;
               even_sum=even_sum +tem;
 
           }
            else
                {
+                // Odd total
                    odd_count++;
                     odd_sum = odd_sum + tem;
                 }
 
            fiveDigit = fiveDigit/10;
       }
-
+      //
       System.out.println("Even count = " +even_count);
       System.out.println("Odd count = " +odd_count);
       System.out.println("Total of even number ="+even_sum);

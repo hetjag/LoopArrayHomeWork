@@ -12,10 +12,12 @@ public class TotalNumberOfSpace
         int word = 1;
         for (int i = 0;i<sentence.length();++i)
         {
+         // Count each word of sentence
             if(sentence.charAt(i)==' ')
                 word++;
         }
         System.out.println("Number of words = "+word);
+
         System.out.println("Number of spaces = "+(word-1));
 
     }

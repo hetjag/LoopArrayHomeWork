@@ -9,10 +9,11 @@ public class SumValue
 
           for (int i = 0; i < numbers.length; i++)
           {
+           // Adding numbers one by one until length limit
               sum =sum + numbers[i];
 
           }
-
+           // It will print total of sum
           System.out.println("The sum is " + sum);
       }
   }
