@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="390e5071-5a1a-48bb-8115-1d5450fd5bac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ConditionalStatmentHomework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConditionalStatmentHomework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConditionalStatmentHomework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConditionalStatmentHomework/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConditionalStatmentHomework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConditionalStatmentHomework/ConditionalStatmentHomework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoopArrayHomeWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/ArmstrongNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/ArrayContainsOfValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/FibonacciNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/META-INF/LoopArrayHomeWork.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/MultiplicationTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/ReverseNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/SortingArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/SumValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/TotalNumberOfA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/TotalNumberOfSpace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LoopArrayHomeWork/TotalOfOddEven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayContainsOfValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FibonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TotalNumberOfA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TotalNumberOfSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TotalOfOddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDDTestcase" beforeDir="false" afterPath="$PROJECT_DIR$/../BDDTestcase" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculater3" beforeDir="false" afterPath="$PROJECT_DIR$/../calculater3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Toshiba\IdeaProjects\LoopArrayHomeWork\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WzYx1fQUR18WLiH8U2IYHD2Uuf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.ReverseNumber">
+    <configuration name="ArrayContainsOfValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayContainsOfValue" />
+      <module name="LoopArrayHomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplicationTable" />
+      <module name="LoopArrayHomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseNumber" />
+      <module name="LoopArrayHomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TotalNumberOfSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TotalNumberOfSpace" />
+      <module name="LoopArrayHomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TotalOfOddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TotalOfOddEven" />
+      <module name="LoopArrayHomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReverseNumber" />
+        <item itemvalue="Application.TotalNumberOfSpace" />
+        <item itemvalue="Application.TotalOfOddEven" />
+        <item itemvalue="Application.ArrayContainsOfValue" />
+        <item itemvalue="Application.MultiplicationTable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="390e5071-5a1a-48bb-8115-1d5450fd5bac" name="Default Changelist" comment="" />
+      <created>1580154132270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580154132270</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1580320629218">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580320629218" />
+    <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1366.728@0.0.1366.728" timestamp="1580163612999" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1580331455299">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580331455299" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1580331434817">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580331434817" />
+    <state x="529" y="257" key="Github.ShareDialog" timestamp="1580331479127">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="529" y="257" key="Github.ShareDialog/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580331479127" />
+    <state x="411" y="69" key="Github.UntrackedFilesDialog" timestamp="1580331490997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="411" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580331490997" />
+    <state width="1323" height="143" key="GridCell.Tab.0.bottom" timestamp="1580331335448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="143" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580331335448" />
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580223539418" />
+    <state width="1323" height="143" key="GridCell.Tab.0.center" timestamp="1580331335448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="143" key="GridCell.Tab.0.center/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580331335448" />
+    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580223539418" />
+    <state width="1323" height="143" key="GridCell.Tab.0.left" timestamp="1580331335448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="143" key="GridCell.Tab.0.left/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580331335448" />
+    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580223539418" />
+    <state width="1323" height="143" key="GridCell.Tab.0.right" timestamp="1580331335448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="143" key="GridCell.Tab.0.right/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580331335448" />
+    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580223539418" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1580323867818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580323867818" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580161441325" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1580323867818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580323867818" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580161441325" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1580323867818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580323867818" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580161441325" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1580323867818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580323867818" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580161441325" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1580330092104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580330092104" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580221660507" />
+  </component>
+</project>
