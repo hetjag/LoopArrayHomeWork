@@ -8,11 +8,12 @@ public class ArmstrongNumber
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter Three digit numbers = ");
         int fiveDigit = scanner.nextInt();
-        int c=0,a,temp;
+        int c=0, a, temp;
 
         temp=fiveDigit;
         while(fiveDigit>0)
         {
+            //separating last single digit
             a=fiveDigit%10;
             fiveDigit=fiveDigit/10;
             c=c+(a*a*a);
